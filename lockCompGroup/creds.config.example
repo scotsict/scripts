@@ -1,0 +1,5 @@
+username="ApiUser_UpdateAssetTags"
+password="password in secret server"
+url="https://scotscollege.jamfcloud.com:8443"
+groupID="377"
+lock_passcode="102938"
